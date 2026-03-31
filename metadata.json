@@ -1,0 +1,5 @@
+{
+  "name": "조달청 제안요청서(RFP) 사전 검토 서비스",
+  "description": "조달청 협상에 의한 계약 제안요청서를 AI가 분석하여 핵심 항목을 자동으로 검토해주는 서비스입니다.",
+  "requestFramePermissions": []
+}
